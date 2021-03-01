@@ -1,0 +1,4 @@
+.Rproj.user/*
+scenarios/Base*/outputs/*
+model/states/*/Hsld*
+model/states/*/Firms*
