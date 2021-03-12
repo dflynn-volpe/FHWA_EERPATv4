@@ -15,8 +15,8 @@
 #===========
 
 # This script runs the FHWA's Energy and Emissions Reduction Policy Analysis Tool (EERPAT).
-# EERPAT is based on Oregon DOT's GreenSTEP model and has been augmented with a freight model, 
-# state specific template files, generalizations of some model components that were Oregeon specific,
+# EERPAT is based on Oregon DOT's GreenSTEP model and has been augmented with a freight model,
+# state specific template files, generalizations of some model components that were Oregon specific,
 # and the addition of scripts to further process and summarize outputs.
 
 # This release of EERPAT is designed to be run from the command line in R (or using an IDE such as RStudio)

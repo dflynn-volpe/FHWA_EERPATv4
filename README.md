@@ -8,10 +8,12 @@ This version, ```EERPAT v4```, of the model includes a disaggregate freight mode
 ## Installation Instructions
 
 1. Either download the zipped release (https://github.com/RSGInc/FHWA_EERPATv4/releases/tag/v4.0) or use GitHub to create a local clone of the repository on your computer.
-2. If you downloaded the zipped release, unzip to a folder on the hard drive of your computer
+2. If you downloaded the zipped release, unzip to a folder on the hard drive of your computer.
 3. Install the version of ```R``` that has been tested with this model, which is currently ```R 4.0.4``` on Windows, from the CRAN R Project website at https://cran.r-project.org/bin/windows/base/R-4.0.4-win.exe.
+
+Optional: [RStudio](https://rstudio.com/) has become the de facto standard development interface for most R users, and will facilitate running EERPAT. Like R itself, this software is free.
 
 ## Running EERPATv4
 
-1. Open the script ```Run_EERPATv4.R``` (located in the root directory of the model in ```R GUI``` or another R IDE such as ```RStudio```.
-2. Follow the instructions in the script to select a scenario to run and launch the model run
+1. Open the script ```Run_EERPATv4.R``` (located in the root directory of the model in ```R GUI``` or ```RStudio```.
+2. Follow the instructions in the script to select a scenario to run and launch the model run. The default model is for Maryland, using a 2010 base year and modeling 2030 and 2050 future years.
